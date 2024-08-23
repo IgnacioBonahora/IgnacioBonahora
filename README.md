@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Ignacio Bonahora
 
 ¡Hola! 👋 Soy Ignacio, actualmente en mi tercer año de estudios en la Universidad del Aconcagua. Tengo 21 años y estoy apasionado por el desarrollo de software y la innovación tecnológica.
@@ -8,15 +6,13 @@
 ## Sobre Mí
 - **Estudios**: Estudiante de tercer año en la Universidad del Aconcagua.
 - **Edad**: 21 años.
-- **Habilidades**: Java,,HTML,CSS,React manejo de git.
+- **Habilidades**: JAVA,HTML,CSS,PYTHON manejo de git.
 
 ## Contacto
 - **GitHub**: @IgnacioBonahora
-- **LinkedIn**: ...
-- **Correo**:bonahoraigna@gmail.com
+- **Correo**:bonahoraigna@uda.edu.ar
 
-## Proyectos de diseño Web
-- https://app.netlify.com/teams/ignaciobonahora/overview
+
 
 
 <!--
