@@ -1,6 +1,6 @@
 # Ignacio Bonahora
 
-¡Hola! 👋 Soy Ignacio, actualmente en mi tercer año de estudios en la Universidad del Aconcagua. Tengo 21 años y estoy apasionado por el desarrollo de software y la innovación tecnológica.
+¡Hola! 👋 Soy Ignacio, estudiante 
 
 
 ## Sobre Mí
