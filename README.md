@@ -16,6 +16,10 @@
 
 - 🎓 Estudio en la [Universidad del Aconcagua](https://www.uda.edu.ar)
 
+- 🔗 Encuéntrame en [LinkedIn](https://www.linkedin.com/in/ignacio-bonahora-866a21309)
+
+- 🗣️ Inglés: Lectura y escritura de documentación; nivel intermedio de conversación 
+
 ### Habilidades <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
 <!-- Lenguajes de Programación -->
@@ -58,7 +62,7 @@
 
 ### Habilidades Blandas 💡
 
-- **Trabajo en equipo:** Colaboro de forma efectiva en entornos grupales.
+- **Trabajo en equipo:** Colaboración de forma efectiva en entornos grupales.
 - **Resolución de problemas:** Habilidad para resolver desafíos complejos de forma lógica y creativa.
 - **Comunicación:** Expresión clara y concisa, tanto en forma escrita como verbal.
 - **Adaptabilidad:** Rápido para aprender nuevas tecnologías y adaptarse a cambios.
