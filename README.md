@@ -9,8 +9,6 @@
 
 - 👨‍💻 Explora mis proyectos en [github.com/IgnacioBonahora](https://github.com/IgnacioBonahora)
 
-- 💬 Pregúntame sobre **Python, Java, SQL, git**
-
 - 📫 Contáctame en **bonahoraigna@gmail.com**
 
 - 🎓 Estudio en la [Universidad del Aconcagua](https://www.uda.edu.ar)
